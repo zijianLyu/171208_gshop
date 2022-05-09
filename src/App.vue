@@ -1,6 +1,7 @@
 <template>
   <div id='app'>
     <!-- gittest -->
+    <!-- gittest2 -->
     <router-view></router-view>
     <FooterGuide v-show="$route.meta.showFooter"></FooterGuide>
   </div>
